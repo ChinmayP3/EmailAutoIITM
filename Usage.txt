@@ -1,0 +1,4 @@
+python3 .\main.py -u mtech.pc5@smail.iitm.ac.in -p qcsialespnaxcomg -f data.csv -pdf 'Placement & Internship Brochure 2023-24.pdf'
+
+
+secretcode = qcsialespnaxcomg
